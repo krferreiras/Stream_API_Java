@@ -16,6 +16,5 @@ public class BinaryOperatorExample {
 
         System.out.println("A soma dos números é: " + resultado);
 
-
     }
 }
